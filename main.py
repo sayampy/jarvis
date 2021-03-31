@@ -1,8 +1,8 @@
 import Jarvis as jarvis
 
-jarvis.my_name("Sayam")#please replace with your name after fork this
+jarvis.my_name("name")#please replace with your name
 
-jarvis.my_age(10) #your age
+jarvis.my_age(00) #your age
 
 jarvis.info() #for information
 
