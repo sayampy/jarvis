@@ -1,3 +1,3 @@
 # jarvis
 
-this is a module of my Jarvis project
+this is my text based assistant.
